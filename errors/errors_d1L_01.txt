@@ -1,0 +1,21 @@
+Comparing files d1outL.txt and MYD1L_01.OUT
+***** d1outL.txt
+Ivor Page
+Key soap inserted
+***** MYD1L_01.OUT
+Monte Nichols
+Key soap inserted
+*****
+
+***** d1outL.txt
+69 implements:33
+Average probes in insert =  3.0 
+Average probes in unsuccessful search =  4.3 
+Average probes in successful search =  3.4 
+***** MYD1L_01.OUT
+69 implements:33
+Average probes in insert =  3.0
+Average probes in unsuccessful search =  4.2
+Average probes in successful search =  3.4
+*****
+

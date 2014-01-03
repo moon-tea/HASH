@@ -1,0 +1,21 @@
+Comparing files d2outD.txt and MYD2D_01.OUT
+***** d2outD.txt
+Ivor Page
+Key soap inserted
+***** MYD2D_01.OUT
+Monte Nichols
+Key soap inserted
+*****
+
+***** d2outD.txt
+70 protected:43
+Average probes in insert =  1.5 
+Average probes in unsuccessful search =  3.9 
+Average probes in successful search =  1.4 
+***** MYD2D_01.OUT
+70 protected:43
+Average probes in insert =  1.5
+Average probes in unsuccessful search =  3.9
+Average probes in successful search =  1.4
+*****
+

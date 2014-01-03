@@ -1,0 +1,21 @@
+Comparing files d0outL.txt and MYD0L_01.OUT
+***** d0outL.txt
+Ivor Page
+Key soap inserted
+***** MYD0L_01.OUT
+Monte Nichols
+Key soap inserted
+*****
+
+***** d0outL.txt
+8 plastic:3
+Average probes in insert =  1.3 
+Average probes in unsuccessful search =  1.0 
+Average probes in successful search =  1.4 
+***** MYD0L_01.OUT
+8 plastic:3
+Average probes in insert =  1.2
+Average probes in unsuccessful search =  1.0
+Average probes in successful search =  1.4
+*****
+

@@ -1,0 +1,21 @@
+Comparing files d2outQ.txt and MYD2Q_01.OUT
+***** d2outQ.txt
+Ivor Page
+Key soap inserted
+***** MYD2Q_01.OUT
+Monte Nichols
+Key soap inserted
+*****
+
+***** d2outQ.txt
+150 goto:31
+Average probes in insert =  1.2 
+Average probes in unsuccessful search =  1.9 
+Average probes in successful search =  1.2 
+***** MYD2Q_01.OUT
+150 goto:31
+Average probes in insert =  1.2
+Average probes in unsuccessful search =  1.9
+Average probes in successful search =  1.2
+*****
+

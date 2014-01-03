@@ -1,0 +1,21 @@
+Comparing files d0outQ.txt and MYD0Q_01.OUT
+***** d0outQ.txt
+Ivor Page
+Key soap inserted
+***** MYD0Q_01.OUT
+Monte Nichols
+Key soap inserted
+*****
+
+***** d0outQ.txt
+26 glass:5
+Average probes in insert =  1.0 
+Average probes in unsuccessful search =  1.5 
+Average probes in successful search =  1.0 
+***** MYD0Q_01.OUT
+26 glass:5
+Average probes in insert =  1.0
+Average probes in unsuccessful search =  1.5
+Average probes in successful search =  1.0
+*****
+
