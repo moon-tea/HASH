@@ -1,0 +1,178 @@
+Monte Nichols
+Key soap inserted
+Key metal inserted
+Key plastic inserted
+Key wood inserted
+Key glass inserted
+Key water inserted
+Key skin inserted
+Key carpet inserted
+Key metal:2
+Key wood:4
+Key glass:5
+Key fish not found
+Key hair not found
+Key carpet:8
+Key water:6
+Key water deleted
+Key glass deleted
+Key carpet deleted
+Key wood deleted
+Key fish not present
+Key hair not present
+Key metal:2
+Key wood not found
+Key glass not found
+Key fish not found
+Key hair not found
+Key carpet not found
+Key water not found
+Key abstract inserted
+Key assert inserted
+Key boolean inserted
+Key break inserted
+Key byte inserted
+Key case inserted
+Key catch inserted
+Key char inserted
+Key class inserted
+Key const inserted
+Key continue inserted
+Key default inserted
+Key do inserted
+Key double inserted
+Key else inserted
+Key enum inserted
+Key extends inserted
+Key final inserted
+Key finally inserted
+Key float inserted
+Key for inserted
+Key goto inserted
+Key if inserted
+Key implements inserted
+Key import inserted
+Key instanceof inserted
+Key int inserted
+Key interface inserted
+Key long inserted
+Key native inserted
+Key new inserted
+Key catch deleted
+Key char deleted
+Key class deleted
+Key const deleted
+Key continue deleted
+Key default deleted
+Key do deleted
+Key double deleted
+Key else deleted
+Key enum deleted
+Key extends deleted
+Key final deleted
+Key finally deleted
+Key float deleted
+Key for deleted
+Key package inserted
+Key private inserted
+Key protected inserted
+Key public inserted
+Key return inserted
+Key short inserted
+Key static inserted
+Key strictfp inserted
+Key super inserted
+Key switch inserted
+Key synchronized inserted
+Key this inserted
+Key throw inserted
+Key throws inserted
+Key transient inserted
+Key try inserted
+Key void inserted
+Key volatile inserted
+Key while inserted
+Key null inserted
+Key true inserted
+Key switch:50
+Key package:41
+Key super:49
+Key long:38
+Key short:46
+Key bigInt not found
+Key littleInt not found
+Key box not found
+Key triple not found
+Key quad not found
+Key bigEndian not found
+Key littleEndian not found
+Key quadratic not found
+Key polygon not found
+Key cube not found
+Key dog not found
+Key cat not found
+Key frog not found
+Key goat not found
+Key triangle not found
+Key polytope not found
+Key me not found
+Key you not found
+Key catch not found
+Key char not found
+Key class not found
+Key const not found
+Key continue not found
+Key default not found
+Key do not found
+Key double not found
+Key else not found
+Key enum not found
+Key extends not found
+Key final not found
+Key finally not found
+Key float not found
+Key for not found
+0 throws:54
+4 abstract:9
+5 import:34
+6 public:44
+7 strictfp:48
+8 case:14
+9 native:39
+10 package:41
+11 switch:50
+12 return:45
+13 volatile:58
+14 true:61
+15 short:46
+17 synchronized:51
+20 if:32
+26 soap:1
+27 null:60
+33 plastic:3
+34 break:12
+35 private:42
+36 void:57
+37 while:59
+39 metal:2
+40 goto:31
+41 try:56
+46 new:40
+48 boolean:11
+49 skin:7
+50 assert:10
+52 instanceof:35
+53 super:49
+54 this:52
+55 long:38
+56 transient:55
+57 byte:13
+61 int:36
+62 interface:37
+63 protected:43
+64 static:47
+65 throw:53
+69 implements:33
+Average probes in insert =  1.7
+Average probes in unsuccessful search =  3.0
+Average probes in successful search =  1.8

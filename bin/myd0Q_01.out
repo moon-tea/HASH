@@ -1,0 +1,30 @@
+Monte Nichols
+Key soap inserted
+Key metal inserted
+Key plastic inserted
+Key wood inserted
+Key glass inserted
+Key water inserted
+Key skin inserted
+Key carpet inserted
+Key glass already exists
+Key water already exists
+Key skin already exists
+Key metal:2
+Key wood:4
+Key glass:5
+Key fish not found
+Key hair not found
+Key carpet:8
+Key water:6
+0 plastic:3
+2 carpet:8
+7 wood:4
+9 water:6
+12 metal:2
+15 skin:7
+17 soap:1
+26 glass:5
+Average probes in insert =  1.0
+Average probes in unsuccessful search =  1.5
+Average probes in successful search =  1.0

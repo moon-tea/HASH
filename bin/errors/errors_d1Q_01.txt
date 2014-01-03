@@ -1,0 +1,1 @@
+Comparing files d1outQ.txt and MYD1Q_01.OUT

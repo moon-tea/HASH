@@ -1,0 +1,1 @@
+Comparing files d2outL.txt and MYD2L_01.OUT
