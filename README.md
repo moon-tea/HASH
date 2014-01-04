@@ -4,7 +4,7 @@ HASH
 Simple hashing function in Java
 =======
       How to use:
-Compile.bat will compile a java program and then run the program with multiple input files and then compare them to expected output. All lines in the output that are not exactly the same as the example output will be output into a file in the folder /Error.
+Compile.bat will compile a java program, run the program with multiple input files, and then compare them to expected output. All lines in the output that are not exactly the same as the example output will be output into a file in the folder /Error.
 
 Input files will be txt files with input structured exactly in the following manner. There is no input verification: all input and example output files are expected to be perfect. This input output schema just proves that the Hashing functions work and these hashing functions could be used for any I/O system given proper context.
 
